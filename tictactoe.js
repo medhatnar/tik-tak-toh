@@ -1,8 +1,3 @@
-// it should take in an input and update the gameState array
-// it should alternate between updating it with an X or O
-// it should check if there are three in a row each turn
-// it should repeat until the three in the row coniditon is met.
-
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
